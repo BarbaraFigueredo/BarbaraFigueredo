@@ -17,7 +17,7 @@ Estou sempre em busca de desafios que me ajudem a crescer como profissional e co
 
 ## 🛠️ Tecnologias e Ferramentas
 
-**Linguagens:**  
+**Linguagens de Programação:**  
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![C#](https://img.shields.io/badge/CSharp-239120?logo=csharp&logoColor=white)  
