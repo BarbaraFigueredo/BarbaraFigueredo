@@ -41,7 +41,7 @@ Scrum • Kanban • Clean Code
 
 ## 📈 Em aprendizado
 
-- 🌐 **Angular e desenvolvimento frontend moderno**
+- 🌐 **React e desenvolvimento frontend moderno**
 - ☁️ **Cloud Native e DevOps com foco em automação**
 - 🧩 **Arquitetura de Software e Engenharia de Requisitos**
 
