@@ -11,12 +11,12 @@
 
 Sou estudante de Engenharia de Software e apaixonada por transformar dados em decisões. Com foco em análise exploratória, visualização de dados e modelagem estatística, desenvolvo projetos próprios com o objetivo de praticar habilidades e gerar insights relevantes.
 
-Atualmente me aperfeiçoo em:
+Em constante aprendizado:
 
-- 📊 Análise de dados com Python (Pandas)
-- 📈 Criação de dashboards interativos em Power BI e Google Sheets
-- 🗃️ Banco de dados com SQL e MySQL
-- 🧹 Limpeza, transformação e storytelling com dados
+- Análise de dados com Python (Pandas)
+-  Criação de dashboards interativos em Power BI e Google Sheets
+-  Banco de dados com SQL e MySQL
+-  Limpeza, transformação e storytelling com dados
 
 ---
 
