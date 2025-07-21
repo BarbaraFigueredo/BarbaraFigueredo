@@ -9,7 +9,7 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de Engenharia de Software e apaixonada por transformar dados em decisões. Com foco em análise exploratória, visualização de dados e modelagem estatística, desenvolvo projetos próprios com o objetivo de praticar habilidades e gerar insights relevantes.
+Sou estudante de Engenharia de Software e apaixonada por transformar dados em decisões. Com foco em análise exploratória, visualização de dados e modelagem estatística, desenvolvendo projetos próprios com o objetivo de praticar habilidades e gerar insights relevantes.
 
 Em constante aprendizado:
 
