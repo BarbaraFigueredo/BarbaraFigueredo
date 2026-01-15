@@ -1,4 +1,4 @@
-Olá! Eu sou a Bárbara de Figueredo Matias, estudante de Engenharia de Software!
+## Olá! Eu sou a Bárbara de Figueredo Matias, estudante de Engenharia de Software!
 
 Dev & Data Analyst | Explorando o mundo da Ciência de Dados e Programação com Python, SQL e Java. Criando soluções de ponta a ponta: do Back-end ao Dashboard.
 
