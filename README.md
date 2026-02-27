@@ -1,4 +1,4 @@
-#Bárbara de Figueredo Matias
+# Bárbara de Figueredo Matias
 
 ### Estudante de Engenharia de Software | Ciência de Dados | Engenharia de Dados | Desenvolvimento de Software
 
