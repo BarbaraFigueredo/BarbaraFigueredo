@@ -1,41 +1,65 @@
-## Olá! Eu sou a Bárbara de Figueredo Matias, estudante de Engenharia de Software!
+#Bárbara de Figueredo Matias
 
-Dev & Data Analyst | Explorando o mundo da Ciência de Dados e Programação com Python, SQL e Java. Criando soluções de ponta a ponta: do Back-end ao Dashboard.
+### Estudante de Engenharia de Software | Ciência de Dados | Engenharia de Dados | Desenvolvimento de Software
 
-Atualmente, combino minha base em **Engenharia de Software** com técnicas de **Análise de Dados** para criar automações, pipelines e visualizações que geram valor.
+Atuo no desenvolvimento de soluções orientadas a dados, construindo pipelines, modelando bases relacionais e desenvolvendo aplicações back-end robustas. Combino fundamentos sólidos de Engenharia de Software com práticas de dados para entregar soluções completas.
 
-Estou focada em aprofundar meus conhecimentos em Python (Pandas), SQL e estruturação de dados para Inteligência Artificial, também estou estudando para tirar minhas certificações AWS!
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-
-**Análise e Ciência de Dados:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Engenharia & Back-end:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![APIs](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Visualização & Business Intelligence:**
-![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-
----
-
-### 📊 O que estou estudando agora
-* 🔭 **Pipelines de Dados (ETL):** Automatizando coleta de dados via APIs.
-* 🤖 **Machine Learning:** Primeiros passos em modelos preditivos.
-
----
-
-### 📫 Contato
+**Como me encontrar:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-de-figueredo-matias)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbaradefigueredomatias@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barbarafigueredosilva@gmail.com)
+📍 Americana - SP
 
-📍 Americana - SP  
-📧 [barbarafigueredosilva@gmail.com](mailto:barbarafigueredosilva@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/barbara-de-figueredo-matias)  
+---
+
+## 🚀 Perfil Profissional
+
+- **Engenharia de Dados:** Experiência com construção de pipelines de dados (ETL/ELT).
+- **Banco de Dados:** Modelagem de dados relacional e normalização.
+- **Desenvolvimento:** Construção de APIs REST, integração entre sistemas e automação de processos.
+- **Machine Learning:** Estruturação de bases para análises e aplicações de ML.
+
+---
+
+## Stack Tecnológica
+
+### Linguagens & Banco de Dados
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Engenharia de Dados & BI
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+
+### Back-end & Arquitetura
+![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+
+### DevOps, Infra & Cloud
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Ubuntu Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Front-end
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## Atualmente aprofundando conhecimentos em:
+
+- **Engenharia de Dados:** Estruturação de dados para IA e arquitetura de pipelines.
+- **Cloud Computing:** Preparação para Certificações AWS.
+
+---
+
+## Áreas de Interesse
+
+- Engenharia de Dados e Arquitetura de Dados
+- Ciência de Dados aplicada a negócios
+- Automação de pipelines
+- Desenvolvimento de software
+- Sistemas escaláveis orientados a dados
