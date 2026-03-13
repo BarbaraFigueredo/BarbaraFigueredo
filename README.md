@@ -1,8 +1,8 @@
 # Bárbara de Figueredo Matias
 
-### 🚀 Software Engineering Student | Java & Back-end Developer | Cloud & Data 
+### 🚀 Software Engineering Student | Back-end Developer | Cloud & Data 
 
-Estudante de Engenharia de Software com foco em **Desenvolvimento Back-end Java**. Sou apaixonada por construir sistemas escaláveis, aplicando padrões de projeto e **Clean Architecture** para entregar código de alta qualidade e fácil manutenção.
+Estudante de Engenharia de Software com foco em **Desenvolvimento Back-end Java e Python**.
 
 **Conecte-se comigo:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-de-figueredo-matias)
