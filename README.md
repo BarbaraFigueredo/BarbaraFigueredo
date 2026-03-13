@@ -47,9 +47,8 @@ Estudante de Engenharia de Software com foco em **Desenvolvimento Back-end Java 
 * **Bacharelado em Engenharia de Software** | Faculdade Anhanguera (Conclusão: 06/2027).
 * **AWS Certified Cloud Practitioner** (Em andamento).
 * **Formação Java/Spring Boot** | Alura.
-* **Python para Data Science e Data Engineering** | Alura.
 
 ---
 
 ### Atualmente atuando como:
-**Estagiária de Ciência de Dados na Hopen Data**, onde desenvolvo scripts de automação, limpeza de dados e consumo de APIs REST para projetos de geolocalização.
+**Estagiária em Desenvolvimento Back-end na Hopen Data**
