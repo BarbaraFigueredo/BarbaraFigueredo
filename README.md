@@ -1,6 +1,6 @@
 # Bárbara de Figueredo Matias
 
-### 🚀 Software Engineering Student | Back-end Developer | Cloud & Data 
+### Back-end Developer | Cloud & Data 
 
 Estudante de Engenharia de Software com foco em **Desenvolvimento Back-end Java e Python**.
 
@@ -51,4 +51,4 @@ Estudante de Engenharia de Software com foco em **Desenvolvimento Back-end Java 
 ---
 
 ### Atualmente atuando como:
-**Estagiária em Desenvolvimento Back-end na Hopen Data**
+**Desenvolvedora Backend na Hopen Data**
