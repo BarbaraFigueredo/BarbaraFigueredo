@@ -1,6 +1,6 @@
 # Bárbara de Figueredo Matias
 
-### Back-end Developer | Cloud & Data 
+### Desenvolvedora Backend | Python, Django REST Framework, PostgreSQL | Entregas Ágeis e Eficientes
 
 Estudante de Engenharia de Software com foco em **Desenvolvimento Back-end Java e Python**.
 
