@@ -2,7 +2,7 @@
 
 ### Desenvolvedora Backend | Python, Django REST Framework, PostgreSQL | Entregas Ágeis e Eficientes
 
-Estudante de Engenharia de Software com foco em **Desenvolvimento Back-end Java e Python**.
+Desenvolvedora Backend com foco em **Desenvolvimento Back-end Java e Python**.
 
 **Conecte-se comigo:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-de-figueredo-matias)
