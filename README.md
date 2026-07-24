@@ -1,6 +1,6 @@
 # Bárbara de Figueredo Matias
 
-### Desenvolvedora Backend | Python, Django REST Framework, PostgreSQL | Entregas Ágeis e Eficientes
+### Backend Developer | Python | Django REST Framework | PostgreSQL | Docker | REST APIs | Java
 
 Desenvolvedora Backend com foco em **Desenvolvimento Back-end Java e Python**.
 
