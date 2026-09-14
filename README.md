@@ -1,12 +1,16 @@
 # Bárbara de Figueredo Matias
 
-### Backend Developer | Python | Django | Java | APIs REST | PostgreSQL | Docker | Cloud | AI
+### Software Engineer | DevOps & Cloud | Python | Docker | CI/CD | Azure | AWS
 
-Desenvolvedora de Software com foco em **Backend Python e Java**, atuando no desenvolvimento de APIs, integração de serviços, processamento de dados e soluções em nuvem.
+Sou **Desenvolvedora de Software** com experiência em Backend e Full Stack, atualmente direcionando minha carreira para **DevOps, Cloud e Infraestrutura**.
 
-Atualmente, trabalho como **Desenvolvedora Backend Python na Hopen Data**, participando do ciclo completo de desenvolvimento, desde decisões de arquitetura e implementação até otimização, testes, deploy e sustentação de APIs. Tenho experiência com **Django REST Framework, PostgreSQL, Docker, Redis, CI/CD e cloud**.
+No desenvolvimento, trabalho principalmente com **Python, Django, APIs REST, PostgreSQL, Docker e Git**. Essa experiência me permite entender não apenas o código, mas também os ambientes onde as aplicações são executadas, entregues e sustentadas.
 
-Também estou direcionando meus estudos para **Inteligência Artificial Generativa e aplicações com LLMs**, explorando **LangChain, LangGraph, Engenharia de Prompts, agentes de IA e integração de modelos com ferramentas e APIs**.
+Estou aprofundando meus conhecimentos em **DevOps e Cloud**, com foco em **Linux, Docker, CI/CD, GitHub Actions, Terraform, infraestrutura como código, automação e observabilidade**.
+
+Tenho experiência prática com **Azure Container Apps, Azure Container Registry, Azure Static Web Apps e GitHub Actions**, além de projetos de laboratório voltados à construção e automação de infraestrutura.
+
+Também estudo **AWS e Inteligência Artificial Generativa**, explorando como automação e IA podem melhorar processos de desenvolvimento e operações.
 
 **Conecte-se comigo:**
 
@@ -20,98 +24,111 @@ Também estou direcionando meus estudos para **Inteligência Artificial Generati
 
 ---
 
-## 💻 Sobre meu trabalho
+## ☁️ DevOps & Cloud
 
-* Desenvolvimento de **APIs REST** utilizando Python/Django e Java/Spring Boot.
-* Arquitetura de aplicações utilizando **SOLID, Clean Architecture, DDD e POO**.
-* Modelagem e otimização de bancos de dados relacionais.
-* Integração entre APIs, serviços e aplicações.
-* Desenvolvimento e sustentação de aplicações em ambientes cloud.
-* Containerização de aplicações com **Docker**.
-* Práticas de **CI/CD, testes e code review**.
-* Desenvolvimento de aplicações com **IA Generativa, LLMs, LangChain e LangGraph** em projetos de estudo e portfólio.
-* Atuação orientada à resolução de problemas, qualidade de código e evolução contínua das soluções.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge\&logo=terraform\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+**Docker · Docker Compose · CI/CD · GitHub Actions · Linux · Terraform · Cloud · Infrastructure as Code · Automação · Observabilidade**
 
 ---
 
-## 🛠️ Stack Tecnológica
-
-### 🤖 AI & LLMs
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white)
-
-**LangChain · LangGraph · LLMs · IA Generativa · Prompt Engineering · AI Agents**
-
-### 🐍 Backend
+## 🐍 Backend & Software Engineering
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-
-**Python · Django REST Framework · Java · Spring Boot · APIs REST · Microservices**
-
-### 🗄️ Dados
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 
-**PostgreSQL · SQL · Oracle SQL · MongoDB · Redis**
-
-### ☁️ Cloud & DevOps
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
-**Azure · AWS (em estudo) · Docker · CI/CD · GitHub Actions**
-
-### 🧱 Engenharia de Software
-
-**Clean Architecture · SOLID · DDD · POO · Testes Unitários · Testes de Integração · Code Review · Git**
+**Python · Django · Django REST Framework · Java · Spring Boot · APIs REST · PostgreSQL · SQL · Redis · Git**
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 DevOps Labs
 
-### 🤖 AI Agent / RAG
+### 🔧 DevOps Lab
 
-Aplicações experimentais com **LLMs, LangChain e LangGraph**, explorando engenharia de prompts, agentes, gerenciamento de contexto, integração com ferramentas e APIs e arquiteturas de aplicações baseadas em IA.
+Laboratório prático dedicado ao aprendizado de **DevOps, Cloud e Infraestrutura**.
 
-### 💳 FinBank
+**Em desenvolvimento:**
 
-Aplicação bancária full stack desenvolvida com **Django REST Framework e React**, com autenticação, transferências, extrato e validação de CPF/CNPJ. Projeto containerizado e disponibilizado em **Azure Container Apps**, utilizando Azure Container Registry, Static Web Apps e GitHub Actions.
+* Automação com Python e Bash
+* Linux e administração de ambientes
+* Docker e Docker Compose
+* CI/CD com GitHub Actions
+* Infrastructure as Code com Terraform
+* Cloud
+* Health checks e observabilidade
+* Logs e troubleshooting
+* Automação de tarefas operacionais
+
+> Projeto desenvolvido para transformar conceitos de DevOps em ambientes e cenários práticos.
+
+---
+
+### ☁️ FinBank — Cloud & CI/CD
+
+Aplicação bancária full stack desenvolvida com **Django REST Framework e React**, containerizada com Docker e publicada na Azure.
+
+**Tecnologias:**
+
+`Django REST Framework` `React` `Docker` `Azure Container Apps` `Azure Container Registry` `Azure Static Web Apps` `GitHub Actions`
+
+O projeto envolve desenvolvimento da aplicação, containerização, configuração de recursos cloud e automação do processo de build e deploy utilizando CI/CD.
+
+---
+
+### 🏦 FootBank — Fintech Engineering Lab
+
+Laboratório de engenharia de software desenvolvido com **Java 17 e Spring Boot**, explorando cenários próximos aos encontrados em sistemas financeiros.
+
+**Tecnologias:**
+
+`Java` `Spring Boot` `Docker` `PostgreSQL` `JUnit` `Git`
+
+O projeto explora **APIs REST, testes automatizados, idempotência, concorrência, resiliência, debugging e simulação de incidentes**, aproximando o desenvolvimento de cenários reais de produção.
+
+---
+
+## 🤖 AI & Automation
+
+Também estudo aplicações de **IA Generativa e agentes de IA**, principalmente utilizando Python.
+
+**Tecnologias e conceitos:**
+
+`Python` `LangChain` `LangGraph` `LLMs` `AI Agents` `Prompt Engineering` `APIs`
+
+Meu interesse está principalmente na utilização de IA para **automação de tarefas, desenvolvimento de software e melhoria de processos técnicos**.
+
+---
+
+## 🎯 Atualmente
+
+Estou focada em evoluir principalmente em:
+
+* **DevOps e Cloud**
+* **Linux**
+* **Docker**
+* **CI/CD**
+* **Terraform / IaC**
+* **AWS e Azure**
+* **Automação**
+* **Observabilidade**
+* **Infraestrutura e confiabilidade**
+* **Backend e arquitetura de sistemas**
+
+Meu objetivo é atuar na interseção entre **desenvolvimento, infraestrutura e cloud**, evoluindo para uma carreira em **DevOps / Cloud Engineering**.
 
 ---
 
 ## 🎓 Formação
 
-**Bacharelado em Engenharia de Software**
+**Engenharia de Software**
 Faculdade Anhanguera — 2024–2027
 
 **AWS Cloud Practitioner** — Em estudo
-
-**Formação Java/Spring Boot** — Alura
-
----
-
-## 📈 Atualmente
-
-**Desenvolvedora Backend Python — Hopen Data**
-
-Atualmente focada em:
-
-* Backend e arquitetura de APIs
-* Python e Django
-* Engenharia de software
-* Cloud e DevOps
-* Inteligência Artificial Generativa
-* LLMs, LangChain e LangGraph
-* Construção de agentes e aplicações inteligentes
-
----
-
-*"Construindo software, explorando IA e aprendendo continuamente."*
