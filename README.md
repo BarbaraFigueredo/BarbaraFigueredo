@@ -1,50 +1,54 @@
 # Bárbara de Figueredo Matias
 
-### Software Engineer | Python | Backend | Generative AI
+### Backend & Middleware | Python · Java · Linux · Docker · Nginx
 
-Sou **Desenvolvedora de Software**, atualmente atuando como Full Stack Júnior, com foco principalmente em **Backend**.
+Sou **Desenvolvedora de Software**, atuando como Full Stack Júnior com foco em **Backend** e em **infraestrutura de aplicações**.
 
-Minha experiência é voltada para **Python, Django, Django REST Framework, PostgreSQL, Docker, APIs REST e Git**, além de experiência com React e TypeScript.
+Na **Hopen Data**, desenvolvo e sustento APIs REST com **Python, Django e Django REST Framework** em ambiente **Linux**, usando **análise de logs e troubleshooting** para investigar gargalos. Entre os resultados, ~30% de redução no tempo de resposta de APIs e ~40% na latência de consultas SQL em **PostgreSQL**.
 
-Nos últimos meses, venho direcionando minha carreira para **Inteligência Artificial Generativa**, estudando e desenvolvendo projetos próprios relacionados a **LLMs, agentes de IA, RAG, prompt engineering, LangChain e LangGraph**.
+Fora do trabalho, estudo **middleware e operação de aplicações na prática**: montei um ambiente com **Nginx** como load balancer na frente de duas instâncias de **Apache Tomcat**, com **Docker Compose**, health check, logs customizados e monitoramento com **Prometheus e Grafana**.
 
-Gosto de aprender de forma prática: estudo conceitos, consulto documentações, desenvolvo projetos e busco entender profundamente aquilo que estou construindo.
+Também uso **Java e Spring Boot** em projetos de resiliência e estudo **IA generativa** (agentes com LangGraph e tool calling) como área complementar.
 
-Também tenho interesse em **Cloud, DevOps e automação**, áreas que complementam minha base de engenharia de software.
-
-Meu objetivo profissional é unir **Engenharia de Software e Inteligência Artificial**, evoluindo para uma carreira como **Engenheira de IA**.
+Gosto de aprender de forma prática: estudo, consulto a documentação, construo e documento o que aprendi.
 
 ---
 
 ## Tecnologias
 
-**Backend:** Python · Django · Django REST Framework · Java · Spring Boot · APIs REST
+**Infraestrutura & Middleware:** Linux · Nginx · Apache Tomcat · Docker · Docker Compose · Shell Script · Prometheus · Grafana
 
-**IA Generativa:** LLMs · AI Agents · RAG · Prompt Engineering · LangChain · LangGraph
+**Backend:** Python · Django · Django REST Framework · FastAPI · Java · Spring Boot · APIs REST
 
 **Dados:** PostgreSQL · SQL · Redis
 
-**Cloud & DevOps:** Docker · GitHub Actions · Azure · AWS · Linux
+**DevOps & Cloud:** Git · GitHub Actions (CI/CD) · Azure
+
+**IA Generativa (em estudo):** LangGraph · LangChain · LLMs · Tool Calling
 
 ---
 
 ## Projetos
 
-Tenho projetos voltados para diferentes áreas da engenharia de software, incluindo **Agentes de IA, Backend, Cloud, DevOps e sistemas financeiros**.
-
-Confira meus repositórios abaixo para conhecer alguns dos projetos que venho desenvolvendo e estudando.
+| Projeto | O que demonstra | Stack |
+|---|---|---|
+| [**Nginx + Tomcat Load Balancer**](https://github.com/BarbaraFigueredo/nginx-tomcat-reverse-proxy) | Load balancing, reverse proxy, health check, logs e observabilidade | Nginx · Tomcat · Docker Compose · Prometheus · Grafana |
+| [**Fin Bank**](https://github.com/BarbaraFigueredo/fin-bank) | Carteira digital full stack com JWT, transferências e CI/CD na Azure | Python · Django Ninja · React · PostgreSQL · GitHub Actions |
+| [**FootBANK Backend Lab**](https://github.com/BarbaraFigueredo/footbank-backend-lab) | Incidentes simulados de sistemas financeiros: Circuit Breaker e Optimistic Locking | Java 17 · Spring Boot · Resilience4j |
+| [**NetSim**](https://github.com/BarbaraFigueredo/simulador-de-redes) | Simulador de redes com interface gráfica, design patterns e testes | Java 21 · JavaFX · JUnit · Mockito |
+| [**Research Agent**](https://github.com/BarbaraFigueredo/research-agent-ai) | Agente em que o LLM decide quando chamar uma ferramenta | Python · FastAPI · LangGraph · Gemini |
 
 ---
 
 ## Formação
 
-**Engenharia de Software**
-Faculdade Anhanguera — 2024–2027
+**Engenharia de Software** (cursando)
+Faculdade Anhanguera · 2024–2027
 
 ---
 
-## Conecte-se comigo
+## Contato
 
 [LinkedIn](https://www.linkedin.com/in/barbara-de-figueredo-matias) · [GitHub](https://github.com/BarbaraFigueredo)
 
-📍 Americana — SP
+📍 Americana, SP
