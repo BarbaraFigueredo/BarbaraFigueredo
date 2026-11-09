@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Bárbara Figueredo
+# Olá! Eu sou a Bárbara Figueredo
 
 ### ☁️ DevOps & Cloud Infrastructure | Linux • AWS • Azure • Docker • CI/CD
 
