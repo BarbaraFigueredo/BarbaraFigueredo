@@ -1,136 +1,136 @@
-# Olá! Eu sou a Bárbara Figueredo
+<div align="center">
 
-### ☁️ DevOps & Cloud Infrastructure | Linux • AWS • Azure • Docker • CI/CD
+# Bárbara Figueredo
 
-Sou profissional de tecnologia e estudante de Engenharia de Software, apaixonada por entender como as aplicações funcionam por trás dos bastidores: da infraestrutura à entrega, do monitoramento à resolução de problemas.
+### Cloud • DevOps • Infraestrutura • Backend
 
-Atualmente, trabalho como **Desenvolvedora Full Stack Júnior na Hopen Data**, com atuação em desenvolvimento, integração e sustentação de aplicações utilizando Python, Django e PostgreSQL.
+Construo, automatizo e mantenho sistemas confiáveis: da linha de código ao deploy, do monitoramento à resolução de incidentes.
 
-Ao longo da minha experiência, também venho trabalhando com **Docker, pipelines CI/CD, AWS, Linux e troubleshooting**, direcionando minha carreira para Cloud, DevOps e Infraestrutura.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-de-figueredo-matias)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BarbaraFigueredo)
+![Localização](https://img.shields.io/badge/📍_Americana,_SP_—_Brasil-555555?style=for-the-badge)
 
-🚀 **O que me motiva:** construir ambientes confiáveis, automatizar processos, investigar problemas e encontrar soluções que tornem sistemas mais estáveis e eficientes.
+</div>
 
 ---
 
-## 💻 Um pouco do que faço
+## 👩‍💻 Sobre mim
 
-- ☁️ **Cloud Computing:** experiência prática com AWS e Azure, containers e serviços de infraestrutura.
-- 🔄 **CI/CD & Automação:** pipelines com GitHub Actions, build de imagens Docker e deploy automatizado.
-- 🐧 **Linux & Infraestrutura:** administração básica, serviços, processos, discos, logs e troubleshooting.
-- 🔧 **Middleware:** Nginx, Apache Tomcat, reverse proxy, load balancing e health checks.
-- 📊 **Observabilidade:** monitoramento e análise de métricas e logs com Prometheus, Grafana e CloudWatch.
-- 🛠️ **Backend:** desenvolvimento e sustentação de APIs REST com Python, Django e Java.
+Desenvolvedora Full Stack Júnior na **Hopen Data** e estudante de Engenharia de Software (Anhanguera, 2024–2027). No dia a dia, desenvolvo, integro e dou sustentação a aplicações em **Python, Django e PostgreSQL**, e é nesse contexto que aprendi a olhar para o que acontece *depois* do código: containers, pipelines, logs, métricas e falhas em produção.
+
+Por isso estou direcionando minha carreira para **Cloud, DevOps e SRE/Infraestrutura**. Meu método é simples: **construir, quebrar de propósito, investigar e documentar**. Os projetos abaixo nasceram assim.
+
+**O que busco:** uma posição júnior/estágio em Cloud, DevOps ou Infraestrutura, em um time que valorize automação, confiabilidade e aprendizado contínuo.
+
+---
 
 ## 🧪 Projetos em destaque
 
-Gosto de aprender colocando a mão na massa. Estes são alguns dos projetos em que aplico meus conhecimentos e exploro desafios próximos aos encontrados em ambientes reais.
-
 ### ☁️ [Nginx + Tomcat Load Balancer](https://github.com/BarbaraFigueredo/nginx-tomcat-reverse-proxy)
-**Laboratório de Infraestrutura & Middleware**
+**Infraestrutura, middleware e observabilidade**
 
-Ambiente com Nginx distribuindo requisições entre duas instâncias Apache Tomcat, utilizando Docker Compose.
+Laboratório com Nginx distribuindo tráfego entre duas instâncias Apache Tomcat via Docker Compose, com monitoramento completo.
 
-O que exploro:
-- Reverse proxy e balanceamento de carga.
-- Comunicação entre containers.
-- Health checks e disponibilidade.
-- Logs, troubleshooting e observabilidade.
-- Prometheus e Grafana.
+- Reverse proxy, load balancing e health checks
+- Comunicação entre containers e análise de disponibilidade
+- Métricas e dashboards com Prometheus e Grafana
+- Troubleshooting a partir de logs
 
-**Tecnologias:** Linux · Docker · Docker Compose · Nginx · Tomcat · Prometheus · Grafana
+`Linux` `Docker` `Docker Compose` `Nginx` `Tomcat` `Prometheus` `Grafana`
+
+---
 
 ### 🏦 [FinBank](https://github.com/BarbaraFigueredo/fin-bank)
-**Aplicação Full Stack em Cloud**
+**Aplicação full stack containerizada, publicada na Azure**
 
-Projeto de carteira digital desenvolvido com backend e frontend integrados, explorando arquitetura containerizada e publicação na Azure.
+Carteira digital com backend e frontend integrados, empacotada em containers e entregue por pipeline automatizado.
 
-O que exploro:
-- APIs REST e integração entre serviços.
-- PostgreSQL e autenticação JWT.
-- Containers e serviços de cloud.
-- Automação de build e deploy com GitHub Actions.
+- API REST com autenticação JWT e PostgreSQL
+- Build de imagens e deploy automatizado com GitHub Actions
+- Publicação em Azure (Container Apps / ACR)
 
-**Tecnologias:** Python · Django Ninja · React · PostgreSQL · Docker · Azure · GitHub Actions
+`Python` `Django Ninja` `React` `PostgreSQL` `Docker` `Azure` `GitHub Actions`
+
+---
 
 ### ⚙️ [FootBANK Backend Lab](https://github.com/BarbaraFigueredo/footbank-backend-lab)
-**Resiliência & Sistemas Distribuídos**
+**Resiliência e sistemas distribuídos**
 
-Laboratório backend inspirado em cenários de sistemas financeiros, com foco em confiabilidade e tratamento de falhas.
+Laboratório inspirado em cenários de sistemas financeiros, focado em como uma aplicação se comporta quando algo dá errado.
 
-O que exploro:
-- Circuit Breaker e tolerância a falhas.
-- Concorrência e Optimistic Locking.
-- Simulação de incidentes.
-- Resiliência de aplicações.
+- Circuit Breaker e tolerância a falhas
+- Concorrência e Optimistic Locking
+- Simulação de incidentes
 
-**Tecnologias:** Java 17 · Spring Boot · Resilience4j
+`Java 17` `Spring Boot` `Resilience4j`
 
-### 🌐 [NetSim](https://github.com/BarbaraFigueredo/simulador-de-redes)
-**Simulador de Redes**
-
-Projeto para explorar conceitos de redes de computadores por meio de uma aplicação gráfica.
-
-**Tecnologias:** Java 21 · JavaFX · JUnit · Mockito
+---
 
 ### 🤖 [Research Agent](https://github.com/BarbaraFigueredo/research-agent-ai)
-**Agentes de IA & Automação**
+**IA aplicada e automação**
 
-Agente que utiliza LLM para decidir quando executar ferramentas e realizar tarefas.
+Agente que usa um LLM para decidir quando acionar ferramentas e executar tarefas.
 
-**Tecnologias:** Python · FastAPI · LangGraph · Gemini
-
----
-
-## 🧰 Tecnologias & Ferramentas
-
-**Cloud & Infrastructure**
-
-AWS · Azure · EC2 · ECS · ECR · CloudWatch · S3 · RDS · VPC · IAM · Azure Container Apps · ACR
-
-**DevOps & Automation**
-
-Docker · Docker Compose · Git · GitHub Actions · CI/CD · Shell Script
-
-**Linux & Middleware**
-
-Linux · Ubuntu · Nginx · Apache Tomcat · TCP/IP · DNS · Reverse Proxy · Load Balancing
-
-**Observability**
-
-Prometheus · Grafana · CloudWatch · Logs · Métricas · Troubleshooting
-
-**Development & Data**
-
-Python · Django · Django REST Framework · Java · Spring Boot · PostgreSQL · SQL · Redis · Celery
-
-**Explorando atualmente**
-
-Oracle Cloud Infrastructure (OCI) · Kubernetes · GitOps
+`Python` `FastAPI` `LangGraph` `Gemini`
 
 ---
 
-## 🎓 Formação
+### 🌐 [NetSim](https://github.com/BarbaraFigueredo/simulador-de-redes)
+**Simulador de redes de computadores**
 
-**Engenharia de Software — Bacharelado (em andamento)**  
-Anhanguera | 2024–2027
+Aplicação gráfica para explorar conceitos de redes, com testes automatizados.
 
-**AWS Cloud Quest: Cloud Practitioner**  
-Amazon Web Services | 2026
-
----
-
-## 🌱 Aprendizado contínuo
-
-Acredito que a melhor forma de aprender tecnologia é construir, testar, errar, investigar e documentar.
-
-Estou direcionando meus estudos para infraestrutura cloud, operações, automação, observabilidade e migração multicloud, sempre buscando conectar conhecimento técnico com problemas reais.
+`Java 21` `JavaFX` `JUnit` `Mockito`
 
 ---
 
-## 🤝 Vamos nos conectar?
+## 🧰 Stack
 
-Gosto de trocar experiências, conhecer novos projetos e conversar sobre tecnologia, Cloud, DevOps e infraestrutura.
+| Área | Tecnologias |
+|---|---|
+| **Cloud** | AWS (EC2, ECS, ECR, S3, RDS, VPC, IAM, CloudWatch) · Azure (Container Apps, ACR) |
+| **DevOps & Automação** | Docker · Docker Compose · GitHub Actions · CI/CD · Git · Shell Script |
+| **Linux & Redes** | Linux (Ubuntu) · Nginx · Apache Tomcat · TCP/IP · DNS · Reverse Proxy · Load Balancing |
+| **Observabilidade** | Prometheus · Grafana · CloudWatch · Logs e métricas · Troubleshooting |
+| **Backend & Dados** | Python · Django · DRF · Java · Spring Boot · PostgreSQL · SQL · Redis · Celery |
 
-💼 [LinkedIn](https://www.linkedin.com/in/barbara-de-figueredo-matias)  
-💻 [GitHub](https://github.com/BarbaraFigueredo)  
-📍 Americana, São Paulo — Brasil
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+**Em estudo agora:** Kubernetes · GitOps · Oracle Cloud Infrastructure (OCI) · migração multicloud
+
+---
+
+## 🎓 Formação e certificações
+
+- **Bacharelado em Engenharia de Software** — Anhanguera (2024–2027, em andamento)
+- **AWS Cloud Quest: Cloud Practitioner** — Amazon Web Services (2026)
+
+---
+
+## 🤝 Vamos conversar?
+
+Se você trabalha com Cloud, DevOps ou infraestrutura e quer trocar ideias, ou tem uma vaga em que eu possa contribuir, me chame:
+
+💼 [LinkedIn](https://www.linkedin.com/in/barbara-de-figueredo-matias) · 💻 [GitHub](https://github.com/BarbaraFigueredo)
+
+<details>
+<summary><b>🇺🇸 English summary</b></summary>
+
+<br>
+
+Junior Full Stack Developer (Python, Django, PostgreSQL) and Software Engineering student, moving into **Cloud, DevOps and Infrastructure**. I build hands-on labs that mirror real environments: load-balanced middleware with Prometheus/Grafana observability, containerized apps deployed to Azure through GitHub Actions, and resilience patterns (circuit breakers, optimistic locking) in Java/Spring Boot. Holder of AWS Cloud Quest: Cloud Practitioner. Open to junior/intern roles in Cloud, DevOps or Infrastructure.
+
+</details>
